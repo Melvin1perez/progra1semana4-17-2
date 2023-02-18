@@ -1,0 +1,15 @@
+C:\semana4progra1MELVIN\bin\Debug\net6.0\semana4progra1MELVIN.exe
+C:\semana4progra1MELVIN\bin\Debug\net6.0\semana4progra1MELVIN.deps.json
+C:\semana4progra1MELVIN\bin\Debug\net6.0\semana4progra1MELVIN.runtimeconfig.json
+C:\semana4progra1MELVIN\bin\Debug\net6.0\semana4progra1MELVIN.dll
+C:\semana4progra1MELVIN\bin\Debug\net6.0\semana4progra1MELVIN.pdb
+C:\semana4progra1MELVIN\obj\Debug\net6.0\semana4progra1MELVIN.csproj.AssemblyReference.cache
+C:\semana4progra1MELVIN\obj\Debug\net6.0\semana4progra1MELVIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\semana4progra1MELVIN\obj\Debug\net6.0\semana4progra1MELVIN.AssemblyInfoInputs.cache
+C:\semana4progra1MELVIN\obj\Debug\net6.0\semana4progra1MELVIN.AssemblyInfo.cs
+C:\semana4progra1MELVIN\obj\Debug\net6.0\semana4progra1MELVIN.csproj.CoreCompileInputs.cache
+C:\semana4progra1MELVIN\obj\Debug\net6.0\semana4progra1MELVIN.dll
+C:\semana4progra1MELVIN\obj\Debug\net6.0\refint\semana4progra1MELVIN.dll
+C:\semana4progra1MELVIN\obj\Debug\net6.0\semana4progra1MELVIN.pdb
+C:\semana4progra1MELVIN\obj\Debug\net6.0\semana4progra1MELVIN.genruntimeconfig.cache
+C:\semana4progra1MELVIN\obj\Debug\net6.0\ref\semana4progra1MELVIN.dll
